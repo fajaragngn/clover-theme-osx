@@ -15,7 +15,7 @@
 			<key>Dark</key>
 			<true/>
 			<key>Path</key>
-			<string>raiden-shogun.jpg</string>
+			<string>background.png</string>
 			<key>Type</key>
 			<string>Tile</string>
 		</dict>
