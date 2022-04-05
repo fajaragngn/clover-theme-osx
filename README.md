@@ -1,7 +1,7 @@
-# Clover OSS Theme
-Mac-style theme for Clover by [fajarr.space](https://fajarr.space)).
+# Clover OSX Theme
+Mac-style theme for Clover
 
-![Clover screenshot]()
+![Clover screenshot](https://i.ibb.co/PZ0CCvw/68747470733a2f2f692e696d6775722e636f6d2f61625a6771706f2e706e67.png)
 
 ### Installation
 Clone or download the ZIP of this repo to your Clover theme directory (usually
@@ -12,7 +12,7 @@ Clover config.plist to select the theme.
 <key>GUI</key>
 <dict>
 	<key>Theme</key>
-	<string>clover-theme-oss</string>
+	<string>clover-theme-osx</string>
 </dict>
 ```
 
